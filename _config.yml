@@ -2,6 +2,7 @@ name: Outlayman
 favicon: null
 layout_spectrum: 0.4804462876636535
 typography_spectrum: 0.3107189384754747
+title: Online Payment System
 cta:
   domain: null
   bucket: null
