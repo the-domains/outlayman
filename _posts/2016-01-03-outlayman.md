@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-24T21:52:17.817Z'
-dateModified: '2016-02-21T15:40:26.688Z'
+datePublished: '2016-02-28T22:35:31.732Z'
+dateModified: '2016-02-25T22:06:44.655Z'
 title: Outlayman
 author: []
 sourcePath: _posts/2016-01-03-outlayman.md
