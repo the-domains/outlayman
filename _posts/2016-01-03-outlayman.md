@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-28T22:35:31.732Z'
-dateModified: '2016-02-25T22:06:44.655Z'
+datePublished: '2016-03-02T11:49:37.081Z'
+dateModified: '2016-03-02T11:49:15.031Z'
 title: Outlayman
 author: []
 sourcePath: _posts/2016-01-03-outlayman.md
@@ -22,6 +22,15 @@ publisher:
 _type: Blurb
 
 ---
-Outlayman is an online payment system. We built it from the ground-up for 'closed communities', such as sports clubs, so they can have a payment system for internal use. Combined with our POS called Bacchus it provides a complete system for managing payments and inventory.
+Outlayman is an online payment system. We built it from the ground-up for 'closed communities', such as sports clubs, so they can have a payment system for internal use based on NFC identifiers. Combined with our POS called Bacchus it provides a complete system for managing payments and inventory.
 
-**The system is currently in private beta**.
+**The system is currently in closed beta**.
+
+If you're a member of a community participating in the closed beta, head over to the [Wallet website][0] or [download the Android app][1] to start using the system for payments in your community.
+
+_Note:_ although anybody will be able to create an account on these applications, they will provide no benefit to those not participating in the beta.
+
+In case you are interested in joining the beta with your community, feel free to contact us through info@outlayman.com for more information.
+
+[0]: https://wallet.outlayman.com/
+[1]: https://outlayman.com/downloads
