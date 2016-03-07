@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-02T11:49:37.081Z'
-dateModified: '2016-03-02T11:49:15.031Z'
+datePublished: '2016-03-07T09:30:19.504Z'
+dateModified: '2016-03-07T09:30:16.847Z'
 title: Outlayman
 author: []
 sourcePath: _posts/2016-01-03-outlayman.md
@@ -29,8 +29,6 @@ Outlayman is an online payment system. We built it from the ground-up for 'close
 If you're a member of a community participating in the closed beta, head over to the [Wallet website][0] or [download the Android app][1] to start using the system for payments in your community.
 
 _Note:_ although anybody will be able to create an account on these applications, they will provide no benefit to those not participating in the beta.
-
-In case you are interested in joining the beta with your community, feel free to contact us through info@outlayman.com for more information.
 
 [0]: https://wallet.outlayman.com/
 [1]: https://outlayman.com/downloads
