@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Outlayman]]></title>
         <description><![CDATA[Outlayman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://outlayman.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 09:30:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 09:33:40 GMT</lastBuildDate>
+        <atom:link href="http://outlayman.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Downloads]]></title>
             <description><![CDATA[<article><h1>Downloads</h1><p>Although the Wallet website provides most features for managing your wallets, it cannot provide all possible features due to its online nature. The most obvious example of this is the ability to link NFC identifiers to wallets.</p></article>]]></description>
-            <link>undefinedmobile-applications/index.html</link>
+            <link>http://outlayman.com/mobile-applications/index.html</link>
             <guid isPermaLink="false">035ce4a0-79cb-490a-8597-072c8ac88075</guid>
-            <pubDate>Mon, 07 Mar 2016 09:29:42 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 09:33:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
