@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-02T11:50:54.706Z'
-dateModified: '2016-03-02T11:41:59.299Z'
+datePublished: '2016-03-07T09:29:42.248Z'
+dateModified: '2016-03-07T09:28:56.631Z'
 title: Downloads
 author: []
 sourcePath: _posts/2016-02-24-mobile-applications.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: mobile-applications/index.html
-_type: WebPage
+_type: Article
 
 ---
 Although the [Wallet website][0] provides most features for managing your wallets, it cannot provide all possible features due to its online nature. The most obvious example of this is the ability to link NFC identifiers to wallets.
