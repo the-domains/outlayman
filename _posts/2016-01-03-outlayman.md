@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T09:30:19.504Z'
-dateModified: '2016-03-07T09:30:16.847Z'
+datePublished: '2016-03-07T09:36:33.546Z'
+dateModified: '2016-03-07T09:36:23.086Z'
 title: Outlayman
 author: []
 sourcePath: _posts/2016-01-03-outlayman.md
@@ -30,5 +30,7 @@ If you're a member of a community participating in the closed beta, head over to
 
 _Note:_ although anybody will be able to create an account on these applications, they will provide no benefit to those not participating in the beta.
 
+In case you are interested in joining the beta with your community, feel free to contact us through info@outlayman.com for more information.
+
 [0]: https://wallet.outlayman.com/
-[1]: https://outlayman.com/downloads
+[1]: https://outlayman.com/mobile-applications
